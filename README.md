@@ -3,8 +3,8 @@ How PR created and approve and merge by the lead/manager in organization.
 
 
 Step 1: Clone the repository
-
-cd PR Process
+https://github.com/ashishcloudops01/PR-Process.git
+cd PR-Process
 
 Step 2: Check existing branches
 git branch
